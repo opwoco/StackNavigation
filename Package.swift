@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "StackNavigation",
-            url: "https://github.com/opwoco/StackNavigation/releases/download/2.6.7/StackNavigation.xcframework.zip",
-            checksum: "d5e5de7e1c8498a7d341a63d64d20b351b14c7001da381fa5f1c36b7e4333d89"
+            url: "https://github.com/opwoco/StackNavigation/releases/download/2.6.8/StackNavigation.xcframework.zip",
+            checksum: "58b3a1a0da50536e2689757217c04f600cfff29b3a0134715e4107c95842d543"
         )
     ]
 )
